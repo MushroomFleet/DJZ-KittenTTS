@@ -77,4 +77,5 @@ This is a **preview/test script** while we wait for the full KittenTTS model rel
 
 ---
 
-*Built upon the same lightweight TTS technology that powers DJZ-Speech (10MB retro TTS)*
+*Built upon the same lightweight TTS technology that powers DJZ-Speech (10MB retro TTS) with advanced contemporary methodology (2025)*
+
